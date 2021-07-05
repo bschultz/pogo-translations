@@ -1046,6 +1046,8 @@
   "item_901": "Incubateur ∞",
   "item_902": "Incubateur",
   "item_903": "Super-Incubateur",
+  "item_1001": "Stockage de Pokémon",
+  "item_1002": "Sac d’objets",
   "item_1101": "Pierre Soleil",
   "item_1102": "Roche Royale",
   "item_1103": "Peau Métal",
@@ -3478,5 +3480,6 @@
   "team_1": "Sagesse",
   "team_2": "Bravoure",
   "team_3": "Intuition",
-  "poke_0": "Pokémon"
+  "poke_0": "Pokémon",
+  "item_0": "Inconnu"
 }
